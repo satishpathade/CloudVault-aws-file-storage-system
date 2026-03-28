@@ -1,4 +1,9 @@
 # CloudVault – AWS Secure File Upload & Storage System
+
+CloudVault is an AWS-powered file upload and storage platform that securely stores files in Amazon S3 and manages file metadata in Amazon RDS.
+
+The project demonstrates cloud storage architecture, secure access using IAM roles, and cost optimization with S3 lifecycle rules.
+
 CloudVault is a real-world AWS cloud storage application designed with security, scalability, cost optimization, and monitoring in mind.
 
 
