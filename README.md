@@ -3,6 +3,7 @@ CloudVault is a real-world AWS cloud storage application designed with security,
 
 
 ## Architecture
+![cloudvault-architecture](architecture/cloudvault-architecture.png)
 
 ## Architecture Flow
 ![upload flow](<architecture/cloudvault-file upload flow.png>)
